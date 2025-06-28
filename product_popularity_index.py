@@ -1,6 +1,5 @@
 """
 Title: Product Popularity Index (PPI)
-Author: Lachlan Davis
 Date: 19/03/25
 """
 from tkinter import *
